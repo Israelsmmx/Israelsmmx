@@ -17,7 +17,7 @@ I born in 1979 and stated to work on IT since 1995
 
 ✉️ &nbsp; You can shoot me an email at israelsmmx@gmail.com! I'll try to respond as soon as I can.
 
-## 🎓 &nbsp: Skills
+## 🎓 Skills
 -  SAP BW, HANA, BOBJ
 -  Python, Databricks, Synapse
 -  MS SQL Server, Oracle, Linux, Windows
