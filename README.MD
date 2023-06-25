@@ -7,7 +7,7 @@ I born in 1979 and stated to work on IT since 1995
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓 &nbsp; I'm currently studying Computer Science & other technologies related to Data Engenering.
+🎓 &nbsp; I'm working in a great company now.
 
 🌱 &nbsp; I'm on track for learning more about Data Eng, Systems Design, and Cloud Architecture & SAP Technologies.
 
